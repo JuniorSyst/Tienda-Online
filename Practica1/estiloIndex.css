@@ -1,0 +1,59 @@
+button a {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+img {
+    width: 220px;
+}
+
+.carta img {
+    border-radius: 20px;
+}
+
+.products {
+    margin-top: 10px;
+    align-items: center;
+    justify-items: center;
+}
+
+.products .list-products .boton-product {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blueviolet;
+    color: white;
+    font-size: 25px;
+    padding: 14px 15px;
+    width: 16.12%;
+    margin-right: 7.1px;
+    height: 100px;
+    border: none;
+    float: left;
+}
+
+.products .list-products .boton-product:hover {
+    background-color: rgb(103, 16, 156);
+    transform: scaleY(1.1);
+}
+
+.ofertas {
+    margin-top: 10px;
+    align-items: center;
+    justify-items: center;
+}
+
+.ofertas .lista-ofertas .boton-ofertas {
+    background-color: aqua;
+    /* background: url(); */
+    width: 99.5%;
+    height: 100px;
+    border: none;
+    margin-top: 10px;
+
+}
